@@ -1,0 +1,11 @@
+git init = 
+fungsinya untuk menginisiasi file yang  akan di simpan di git
+git add =
+sebuah cara untuk membari tahu git kalau file itu mau disimpan
+git status =
+adalah cara melihat status file yang akan tersimpan atau yang sudah tersimpan 
+git commit -m = argument untuk mensave file di git 
+simbol warna di samping baris 
+warna hijau = ada baris baru yang di tambah 
+warna merah = ada baris yang di hapus
+warna biru = ada baris yang di ubah 
